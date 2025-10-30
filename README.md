@@ -65,7 +65,7 @@
 - [Docs](https://docs.soliditylang.org/en/latest/) - Official documentation.
 - [Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html) - Cheatsheet from the official docs.
 - [Ethereum Wiki](https://github.com/ethereum/wiki/wiki) - The Ethereum Wiki.
-- [Ethereum Stackexchange](https://ethereum.stackexchange.com/) - Ethereum's Stackexchange board.
+- [Ethereum Stack Exchange](https://ethereum.stackexchange.com/) - Ethereum's Stackexchange board.
 - [ethereum/solidity](https://github.com/ethereum/solidity/) - Source code.
 - [ethereum/solc-bin](https://github.com/ethereum/solc-bin) - Current and historical builds of the compiler.
 - [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples) - Loose collection of example code.
@@ -123,7 +123,7 @@
 - [Consensys Diligence](https://consensys.net/diligence/audits/) - Public security audits by the Consensys Diligence Team.
 - [MixBytes](https://github.com/mixbytes/audits_public) - Public security audits by the MixBytes Team.
 - [Hacken](https://hacken.io/audits/) - Public security audits by the Hacken Team.
-- [SpearbitDAO] (https://github.com/spearbit/portfolio) - Public security audits by the SpearbitDAO Team.
+- [Spearbit DAO](https://github.com/spearbit/portfolio) - Public security audits by the Spearbit DAO Team.
 
 #### Examples
 
